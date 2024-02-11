@@ -9,12 +9,7 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 header{
-    background-image: url('/mypic.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 100vh;
-    background-position: center;
+     
     top: 0;
     background-color: beige;
 }
@@ -27,7 +22,7 @@ nav{
     left: 0;
 }
 nav ul{
-    list-style: none;rgb(64, 60, 12)
+    list-style: none;rgb(64, 60, 12);
     padding: 10px;
 }
 .menu li{
